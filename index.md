@@ -1,3 +1,3 @@
 <script>
-  window.external.AddSearchProvider("https://github.com/Eonm/open-directories/blob/master/OpenSearchVideo.xml");
+  window.external.AddSearchProvider("https://raw.githubusercontent.com/Eonm/open-directories/master/OpenSearchVideo.xml");
 </script>
