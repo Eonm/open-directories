@@ -2,4 +2,4 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
 <ShortName>Open Directory Search</ShortName>
 <Description>Open Directory Search</Description>
-<Url type="text/html" method="get" template='https://www.google.fr/search?q=intext:"{searchTerms}"+(avi|mkv|mov|mp4|mpg|wmv)+-inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)+-inurl:(index_of|listen77|mp3raid|mp3toss|mp3drug|index_of|wallywashis)+intitle:"index.of./"'/><Image width="16" height="16" type="image/x-icon"></Image><InputEncoding>UTF-8</InputEncoding></OpenSearchDescription>
+<Url type="text/html" method="get" template='https://www.google.fr/search?q=intext:"{searchTerms}"+(pdf|epub)+-inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)+-inurl:(index_of|listen77|mp3raid|mp3toss|mp3drug|index_of|wallywashis)+intitle:"index.of./"'/><Image width="16" height="16" type="image/x-icon"></Image><InputEncoding>UTF-8</InputEncoding></OpenSearchDescription>
